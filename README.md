@@ -138,4 +138,5 @@ startup-sustainability-dashboard/
 ```
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](assets/interactive_dashboard_curated%20-html.png)
+![Dashboard Preview](https://github.com/vbnair/startup-sustainability-dashboard/blob/420be78a67eb971229f49cb9c60110640b6f00f9/assets/interactive_dashboard_curated%2520-html.png)
+
