@@ -1,0 +1,6 @@
+pandas
+plotly
+transformers
+requests
+python-dotenv
+torch

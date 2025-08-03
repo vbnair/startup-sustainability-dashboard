@@ -1,0 +1,21 @@
+Startup,Sector,Year Founded,Business Model,Stage,Size Category,Valuation (USD B),Funding (USD B),Revenue FY21–23 (INR Cr),Profitability,IPO-Listed,ESG Disclosed,ESG Initiatives,Data Completeness,Source Notes
+Byju's,EdTech,2011,Subscription,Growth,Unicorn,5.1,5.0,2280/3039/3500,Loss-making,No,Yes,Rural education initiatives,Complete,Economic Times 2023
+Unacademy,EdTech,2015,Freemium,Growth,Unicorn,0.8,0.8,380/700/1100,Loss-making,No,No,Not Disclosed,Complete,Inc42 2023
+upGrad,EdTech,2015,Subscription,Growth,Unicorn,2.3,2.0,400/800/1500,Loss-making,No,Yes,Digital literacy campaigns,Complete,Crunchbase 2023
+Simplilearn,EdTech,2010,Subscription,Late,Mid,0.7,0.6,150/250/400,Profitable,No,Yes,Workforce upskilling programs,Complete,Tracxn 2023
+Vedantu,EdTech,2014,Freemium,Growth,Mid,1.0,0.9,300/600/900,Loss-making,No,No,Not Disclosed,Complete,YourStory 2023
+Razorpay,FinTech,2014,Transaction Fees,Growth,Unicorn,7.5,0.7,1000/1500/1900,Profitable,No,Yes,Financial inclusion,Complete,Inc42 2023
+PhonePe,FinTech,2015,Freemium,Growth,Unicorn,12.0,1.0,1400/2000/2500,Low-margin,No,Yes,Women-led leadership,Complete,Economic Times 2023
+Paytm,FinTech,2010,Freemium,Late,Unicorn,3.5,4.0,3000/4200/5500,Loss-making,Yes,Yes,Financial literacy campaigns,Complete,IPO Filing 2022
+Policybazaar,FinTech,2008,Marketplace,Late,Unicorn,2.4,1.5,1200/1800/2300,Loss-making,Yes,Yes,Insurance inclusion programs,Complete,IPO Filing 2022
+Cred,FinTech,2018,Freemium,Growth,Unicorn,6.4,1.0,800/1400/2100,Loss-making,No,No,Not Disclosed,Complete,Inc42 2023
+Nykaa,E-commerce,2012,Marketplace,Late,Unicorn,6.5,0.3,4000/6358/7200,Profitable,Yes,Yes,Sustainable packaging,Complete,IPO Filing 2022
+Flipkart,E-commerce,2007,Marketplace,Late,Unicorn,37.6,10.0,35000/40000/45000,Loss-making,No,Yes,Green logistics,Complete,Economic Times 2023
+Meesho,E-commerce,2015,Marketplace,Growth,Unicorn,3.9,3.9,2200/3000/3500,Near breakeven,No,No,Not Disclosed,Complete,YourStory 2023
+FirstCry,E-commerce,2010,Marketplace,Growth,Unicorn,3.5,1.0,1000/1400/2000,Profitable,No,Yes,Child welfare programs,Complete,Tracxn 2023
+PharmEasy,E-commerce,2015,Marketplace,Growth,Unicorn,5.6,1.5,1800/2200/2800,Loss-making,No,Yes,Affordable healthcare programs,Complete,Economic Times 2023
+Zoho,SaaS,1996,SaaS (B2B),Late,Mid,3.0,0.0,4200/5500/6000,Profitable,No,Yes,Green data center operations,Complete,Company Report 2023
+Freshworks,SaaS,2010,SaaS (B2B),Late,Unicorn,4.0,1.0,3200/4000/4500,Profitable,Yes,Yes,Diversity hiring programs,Complete,IPO Filing 2021
+Postman,SaaS,2014,Freemium,Growth,Unicorn,5.6,0.7,700/1200/2000,Profitable,No,No,Not Disclosed,Complete,Crunchbase 2023
+Chargebee,SaaS,2011,SaaS (B2B),Growth,Unicorn,3.5,1.0,800/1300/1800,Loss-making,No,Yes,Financial inclusion for SMEs,Complete,Tracxn 2023
+BrowserStack,SaaS,2011,SaaS (B2B),Growth,Unicorn,4.0,0.8,600/1100/1600,Profitable,No,Yes,Remote work enablement programs,Complete,Inc42 2023
